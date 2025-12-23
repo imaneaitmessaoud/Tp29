@@ -1,5 +1,5 @@
 # Tp29
-<img width="1391" height="455" alt="image" src="https://github.com/user-attachments/assets/62f3fbbd-b9b9-4e33-9c25-06948e00ca42" />
+
 <img width="1366" height="554" alt="image" src="https://github.com/user-attachments/assets/7a8a4746-031f-4de6-a034-d0e6606117ee" />
 <img width="1361" height="685" alt="image" src="https://github.com/user-attachments/assets/bb697082-c0f8-4a96-930d-af153587fb1d" />
 <img width="1361" height="685" alt="image" src="https://github.com/user-attachments/assets/588ae1f3-178a-4bea-92cd-c835d0b68dfc" />
